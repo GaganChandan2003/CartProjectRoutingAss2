@@ -1,0 +1,28 @@
+.outer
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-template-rows: auto;
+    margin: auto;
+    gap: 30px;
+    margin-top: 40px;
+    justify-items: center;
+    background-color: white;
+    width: 80%;
+}
+.outer>div{
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    justify-content: center;
+    width: 150px;
+    height: auto;
+    padding: 30px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.outer>div img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}

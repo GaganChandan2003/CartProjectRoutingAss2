@@ -1,0 +1,143 @@
+{
+    "clothing":[
+        {
+            "id":1,
+            "image":"https://m.media-amazon.com/images/I/71xLDD3dyCL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":2,
+            "image":"https://m.media-amazon.com/images/I/619SqQW1NYL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":3,
+            "image":"https://m.media-amazon.com/images/I/71v95wONNHL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":4,
+            "image":"https://m.media-amazon.com/images/I/81MCGX3ewQL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":5,
+            "image":"https://m.media-amazon.com/images/I/71CPzIvedhL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":6,
+            "image":"https://m.media-amazon.com/images/I/41nvyksD5lL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":7,
+            "image":"https://m.media-amazon.com/images/I/71-DoIdu+LL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":8,
+            "image":"https://m.media-amazon.com/images/I/61qSidquxlL._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        },
+        {
+            "id":9,
+            "image":"https://m.media-amazon.com/images/I/71tBixkqT8L._AC_UL320_.jpg",
+            "title":"Men's Slim Polo"
+        }
+    ],
+    "electronics":[
+        {
+            "id":1,
+            "image":"https://m.media-amazon.com/images/I/61EXU8BuGZL._AC_UY218_.jpg",
+            "title":"Echo Dot (3rd Gen)"
+        },
+        {
+            "id":2,
+            "image":"https://m.media-amazon.com/images/I/61Pg1H7U15L._AC_UY218_.jpg",
+            "title":"qualimate electronic lcd writing tablet"
+        },
+        {
+            "id":3,
+            "image":"https://m.media-amazon.com/images/I/61WFAMgNXIL._AC_UL320_.jpg",
+            "title":"Fire-Boltt Talk 2"
+        },
+        {
+            "id":4,
+            "image":"https://m.media-amazon.com/images/I/51NIFlY4adL._AC_UL320_.jpg",
+            "title":"IFITech 1080p HD Hidden Camera"
+        },
+        {
+            "id":5,
+            "image":"https://m.media-amazon.com/images/I/51IEbBI7qBL._AC_UL320_.jpg",
+            "title":"LED Light Lamp"
+        },
+        {
+            "id":6,
+            "image":"https://m.media-amazon.com/images/I/61zODtv7sfL._AC_UL320_.jpg",
+            "title":"Stand Holder"
+        },
+        {
+            "id":7,
+            "image":"https://m.media-amazon.com/images/I/41LgqO3J4UL._AC_UL320_.jpg",
+            "title":"JBL Head Phones"
+        },
+        {
+            "id":8,
+            "image":"https://m.media-amazon.com/images/I/71vEbuGETaL._AC_UY218_.jpg",
+            "title":"Phone Holder Socket"
+        },
+        {
+            "id":9,
+            "image":"https://m.media-amazon.com/images/I/41m+5guIMVL._AC_UL320_.jpg",
+            "title":"LAVNA Smart Lock"
+        }
+    ],
+    "paintings":[
+        {
+            "id":1,
+            "image":"https://m.media-amazon.com/images/I/71kAqxQvnzL._AC_UY218_.jpg",
+            "title":"Paintings"
+        },
+        {
+            "id":2,
+            "image":"https://m.media-amazon.com/images/I/71KaLj45+kL._AC_UL320_.jpg",
+            "title":"Painting Mantra"
+        },
+        {
+            "id":3,
+            "image":"https://m.media-amazon.com/images/I/91pKTC3n5tL._AC_UL320_.jpg",
+            "title":"Indianara 3 Pc Set of Floral"
+        },
+        {
+            "id":4,
+            "image":"https://m.media-amazon.com/images/I/91YK11gd-yL._AC_UL320_.jpg",
+            "title":"SAF UV Textured Ganesh Modern"
+        },
+        {
+            "id":5,
+            "image":"https://m.media-amazon.com/images/I/91WxkPd3i9L._AC_UL320_.jpg",
+            "title":"SAF Buddha Vastu UV Coated"
+        },
+        {
+            "id":6,
+            "image":"https://m.media-amazon.com/images/I/51HA9vXCpUL._AC_UL320_.jpg",
+            "title":"SAF Set of 3 Hexagon Preety Brown Floral"
+        },
+        {
+            "id":7,
+            "image":"https://m.media-amazon.com/images/I/71SB4RMH92L._AC_UL320_.jpg",
+            "title":"SAF 6 MM MDF Peacock Designer"
+        },
+        {
+            "id":8,
+            "image":"https://m.media-amazon.com/images/I/71uPgWRZfvL._AC_UL320_.jpg",
+            "title":"Kotart Modern Art Wall Decor"
+        },
+        {
+            "id":9,
+            "image":"https://m.media-amazon.com/images/I/A1z9v21qUgL._AC_UL320_.jpg",
+            "title":"Kyara arts Multiple Frame"
+        }
+    ]
+}
